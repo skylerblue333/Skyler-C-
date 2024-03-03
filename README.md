@@ -1,3 +1,33 @@
+/* Summarize the project and what problem it was solving.
+
+This program carries out a range of operations to overall be an item-tracking program. This works by analyzing the text records made through that day. I assume these are text files made or taken from some database. It makes sense of the data in specific ways based on the functionality and design I incorporated. 
+
+
+What did you do particularly well?
+
+I think I made the entire project particularly well, based on the instructions I was given. But overall you could say I like the menu options displayed to the user to choose from. 
+
+Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+
+I could enhance my code like everyone through industry best practices and continue to make my code more readable and maintainable. This could be done and continued to improved on by practicing on more projects and working with others.
+
+Which pieces of the code did you find most challenging to write, and how did you overcome this? 
+
+I think the most challenging part was the data file creation, to backup accumulated data. This is one of the first times I have implemented that in my code. 
+
+What tools or resources are you adding to your support network?
+
+I am now adding GitHub and connections to others as a tool and a support network. 
+
+What skills from this project will be particularly transferable to other projects or coursework?
+
+I think all skills used and thus improved on can be particularly transferable to any project. If I had to select one it would be my new skill to create a data file. With the functionality to backup my accumulated data. 
+
+How did you make this program maintainable, readable, and adaptable?
+
+I did this by using industry best practices such as in-line comments and appropriate naming conventions, to enhance readability and maintainability. *\
+
+
 
 #include <iostream>
 #include <fstream>
